@@ -1,4 +1,4 @@
-package writing_excel_file;
+package excel_file_writing;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

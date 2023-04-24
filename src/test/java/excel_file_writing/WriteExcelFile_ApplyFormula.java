@@ -1,4 +1,4 @@
-package writing_excel_file;
+package excel_file_writing;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -7,7 +7,7 @@ import java.io.IOException;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import reading_excel_file.Constants;
+import excel_file_reading.Constants;
 
 public class WriteExcelFile_ApplyFormula {
 

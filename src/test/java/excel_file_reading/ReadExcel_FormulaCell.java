@@ -1,4 +1,4 @@
-package reading_excel_file;
+package excel_file_reading;
 
 import java.io.FileInputStream;
 
